@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\vishn\source\repos\Assignment2_sq\Triangle_Test\bin\Debug\Triangle_Test.dll" total="8" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2021-03-05" time="23:33:43">
+  <environment nunit-version="2.7.1.0" clr-version="2.0.50727.9149" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\vishn\Downloads\NUnit-2.7.1\bin" machine-name="LAPTOP-OUB84V8H" user="vishn" user-domain="LAPTOP-OUB84V8H" />
+  <culture-info current-culture="en-IN" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\vishn\source\repos\Assignment2_sq\Triangle_Test\bin\Debug\Triangle_Test.dll" executed="True" result="Success" success="True" time="0.067" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Triangle_Test" executed="True" result="Success" success="True" time="0.060" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="Class1" executed="True" result="Success" success="True" time="0.058" asserts="0">
+            <results>
+              <test-case name="Triangle_Test.Class1.Analyze1" executed="True" result="Success" success="True" time="0.014" asserts="1" />
+              <test-case name="Triangle_Test.Class1.Analyze2" executed="True" result="Success" success="True" time="0.004" asserts="1" />
+              <test-case name="Triangle_Test.Class1.Analyze3" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="Triangle_Test.Class1.Analyze4" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="Triangle_Test.Class1.Analyze5" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="Triangle_Test.Class1.Analyze6" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="Triangle_Test.Class1.Analyze7" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="Triangle_Test.Class1.Analyze8" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

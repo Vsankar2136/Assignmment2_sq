@@ -1,0 +1,10 @@
+C:\Users\vishn\source\repos\Assignment2_sq\Assignment2_sq\bin\Debug\Assignment2_sq.exe.config
+C:\Users\vishn\source\repos\Assignment2_sq\Assignment2_sq\bin\Debug\Assignment2_sq.exe
+C:\Users\vishn\source\repos\Assignment2_sq\Assignment2_sq\bin\Debug\Assignment2_sq.pdb
+C:\Users\vishn\source\repos\Assignment2_sq\Assignment2_sq\obj\Debug\Assignment2_sq.csprojAssemblyReference.cache
+C:\Users\vishn\source\repos\Assignment2_sq\Assignment2_sq\obj\Debug\Assignment2_sq.csproj.CoreCompileInputs.cache
+C:\Users\vishn\source\repos\Assignment2_sq\Assignment2_sq\obj\Debug\Assignment2_sq.exe
+C:\Users\vishn\source\repos\Assignment2_sq\Assignment2_sq\obj\Debug\Assignment2_sq.pdb
+C:\Users\vishn\source\repos\Assignment2_sq\Assignment2_sq\bin\Debug\nunit.framework.dll
+C:\Users\vishn\source\repos\Assignment2_sq\Assignment2_sq\bin\Debug\nunit.framework.xml
+C:\Users\vishn\source\repos\Assignment2_sq\Assignment2_sq\obj\Debug\Assignment2_sq.csproj.CopyComplete
